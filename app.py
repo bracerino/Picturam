@@ -185,7 +185,7 @@ if 'current_section' not in st.session_state:
 
 
 st.markdown('<div class="main-header">Picturam</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Současný tanec, inspirováno dílem Leonarda Da Vinci Poslední večeře</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Současný tanec, inspirováno dílem Leonarda Da Vinci "Poslední večeře"</div>', unsafe_allow_html=True)
 
 
 col1, col2, col3, col4, col5, col6 = st.columns([1, 1, 1, 1, 1, 1])
