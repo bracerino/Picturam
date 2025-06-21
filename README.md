@@ -1,2 +1,2 @@
 # Picturam
-Picturam website
+picturam.streamlit.app
