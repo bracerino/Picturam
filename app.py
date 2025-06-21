@@ -178,7 +178,7 @@ st.markdown("""
 
 
 if 'current_section' not in st.session_state:
-    st.session_state.current_section = 'o-predstaveni'
+    st.session_state.current_section = 'uvod'
 
 
 st.markdown('<div class="main-header">Picturam</div>', unsafe_allow_html=True)
