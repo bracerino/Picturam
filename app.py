@@ -185,7 +185,7 @@ if 'current_section' not in st.session_state:
 
 
 st.markdown('<div class="main-header">Picturam</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Současný tanec, inspirováno dílem Leonarda Da Vinci "Poslední večeře"</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Současný tanec, inspirováno dílem Leonarda Da Vinci 'Poslední večeře'</div>', unsafe_allow_html=True)
 
 
 col1, col2, col3, col4, col5, col6 = st.columns([1, 1, 1, 1, 1, 1])
@@ -304,8 +304,7 @@ elif st.session_state.current_section == 'o-predstaveni':
             během představení je s nimi manipulováno; dále několik drobnějších rekvizit<br><br>
             <strong>Zvuk:</strong> reprodukovaná hudba<br><br>
             <em>Lightplot a další detaily technických požadavků jsou k nalezení v 
-            <a href="https://docs.google.com/document/d/1j46pklQYYJqYjDM6avl7JyuczVnZjuhz-93g9Sop0ic/edit?tab=t.0" target="_blank" style="color: #e74c3c; text-decoration: underline;">online technickém rideru</a>
-            .</em>
+            <a href="https://docs.google.com/document/d/1j46pklQYYJqYjDM6avl7JyuczVnZjuhz-93g9Sop0ic/edit?tab=t.0" target="_blank" style="color: #e74c3c; text-decoration: underline;">online technickém rideru</a>.</em>
         </div>
         ''', unsafe_allow_html=True)
     with cols_2:
