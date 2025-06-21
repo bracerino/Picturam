@@ -434,7 +434,7 @@ elif st.session_state.current_section == 'cv':
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #7f8c8d; margin-top: 2em;">
-    <p>© 2024 Picturam - Contemporary Dance Project</p>
+    <p>© 2025 Picturam - Současný tanec</p>
     <p><em>Inspirováno dílem Leonarda Da Vinci "Poslední večeře"</em></p>
 </div>
 """, unsafe_allow_html=True)
