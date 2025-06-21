@@ -300,7 +300,9 @@ elif st.session_state.current_section == 'o-predstaveni':
             <strong>Scénografie:</strong> 4× stůl o rozměrech 76 × 139 × 60 cm - kovová konstrukce a překližková deska, 
             během představení je s nimi manipulováno; dále několik drobnějších rekvizit<br><br>
             <strong>Zvuk:</strong> reprodukovaná hudba<br><br>
-            <em>Lightplot a další detaily technických požadavků jsou k nalezení v online technickém rideru.</em>
+            <em>Lightplot a další detaily technických požadavků jsou k nalezení v 
+            <a href="https://docs.google.com/document/d/1j46pklQYYJqYjDM6avl7JyuczVnZjuhz-93g9Sop0ic/edit?tab=t.0" target="_blank" style="color: #e74c3c; text-decoration: underline;">online technickém rideru</a>
+            .</em>
         </div>
         ''', unsafe_allow_html=True)
     with cols_2:
