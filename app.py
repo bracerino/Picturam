@@ -225,7 +225,7 @@ if st.session_state.current_section == 'uvod':
         st.markdown('''
         <div class="info-box">
             <strong>Picturam</strong> je současné taneční představení inspirované slavným obrazem <strong>Leonarda Da Vinci 
-            <em>Poslední večeře</em></strong> . Choreografie zkoumá převedení statického obrazu do živé jevištní podoby 
+            <em>Poslední večeře</em></strong>. Choreografie zkoumá převedení statického obrazu do živé jevištní podoby 
             a zasazuje historické téma do současného světa mužského společenství.
             <br><br>
             Představení trvá <strong>40 minut</strong> a interpretuje ho <strong>5 tanečníků</strong> pod vedením <strong>choreografky Evy Rezové</strong>.
