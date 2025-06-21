@@ -13,6 +13,9 @@ st.set_page_config(
 
 st.markdown("""
 <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
     .stButton > button {
         background-color: #ecf0f1 !important;
         color: black !important;
